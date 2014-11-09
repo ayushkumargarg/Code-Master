@@ -1,4 +1,4 @@
 Code-Master
 ===========
 
-My first Repository
+test git hub is a repositiry of showing the bare minimums
